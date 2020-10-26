@@ -1,5 +1,5 @@
 "# My_project_COVID19" 
-For the latest updated notebook Please check my profile ar kaggle:
+For the latest updated notebook Please check my profile on kaggle:
 
   https://www.kaggle.com/fadimasoud
   
